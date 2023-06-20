@@ -1,0 +1,87 @@
+[
+    {
+        "id": "1",
+        "headline": "Heavy rains in Bangalore",
+        "standfirst": "<p class=\"standfirst-content\">Heavy rains in Bangalore affected many</p>",
+        "image": {
+            "alt": "Heavy rains in Bangalore",
+            "src": "https://via.placeholder.com/150/92c952",
+            "height": 75,
+            "width": 100
+        },
+        "date": "March 24, 2021",
+        "link": {
+            "href": "https://www.news.com.au/lifestyle/fashion/celebrity/khloe-kardashian-flaunts-toned-figure-in-tiny-bikini/news-story/c17f3a49c23f647fcc7bbcfa7720ac87",
+            "title": "Heavy rains in Bangalore"
+        },
+        "byline": "Shireen Khalil"
+    },
+    {
+        "id": "2",
+        "headline": "Body pulled from car in floodwaters",
+        "standfirst": "<p class=\"standfirst-content\">A man has died after becoming trapped in his car during the NSW floods on Monday, police have confirmed.</p>",
+        "image": {
+            "alt": "Man dies after being trapped in vehicle by floodwaters at Glenorie, NSW: cops",
+            "src": "https://content.api.news/v3/images/bin/cca3bdd91f0a2d57d2cebf47521780ea",
+            "height": 75,
+            "width": 100
+        },
+        "date": "March 24, 2021",
+        "link": {
+            "href": "https://www.news.com.au/technology/environment/man-dies-after-being-trapped-in-vehicle-by-floodwaters-at-glenorie-nsw-cops/news-story/62d331e737178a33015998d826931ca8",
+            "title": "man-dies-after-being-trapped-in-vehicle-by-floodwaters-at-glenorie-nsw-cops"
+        },
+        "byline": "Evin Priest"
+    },
+    {
+        "id": "3",
+        "headline": "Push to phase out coal in 9 years",
+        "standfirst": "<p class=\"standfirst-content\">Victorian academics and scientists have slammed inaction on climate change with one saying coal needed to be phased out by 2030.</p>",
+        "image": {
+            "alt": "‘Failure of immense dimension’: Victorian academics call for action on climate change",
+            "src": "https://content.api.news/v3/images/bin/135e5c080753522c61826170ac99bbc9",
+            "height": 75,
+            "width": 100
+        },
+        "date": "March 24, 2021",
+        "link": {
+            "href": "https://www.news.com.au/technology/environment/climate-change/failure-of-immense-dimension-victorian-academics-call-for-action-on-climate-change/news-story/b410a122670016175d4f3c0433f55ff7",
+            "title": "failure-of-immense-dimension-victorian-academics-call-for-action-on-climate-change"
+        },
+        "byline": "Rhiannon Tuffield"
+    },
+    {
+        "id": "4",
+        "headline": "Why man accused of killing wife won’t face trial",
+        "standfirst": "<p class=\"standfirst-content\">An elderly man accused of stabbing his wife to death at their new home will not face trial, with a judge labelling the case ‘tragic’. </p>",
+        "image": {
+            "alt": "Elderly man Ernest Fluder unfit to stand trial for wife’s murder",
+            "src": "https://content.api.news/v3/images/bin/1327dc7aedcdea15a9252516bf6b99f5",
+            "height": 75,
+            "width": 100
+        },
+        "date": "March 24, 2021",
+        "link": {
+            "href": "https://www.news.com.au/national/victoria/courts-law/elderly-man-ernest-fluder-unfit-to-stand-trial-for-wifes-murder/news-story/c80eba76f127efeb4dce12bce0721ee4",
+            "title": "elderly-man-ernest-fluder-unfit-to-stand-trial-for-wifes-murder"
+        },
+        "byline": "Caroline Schelle"
+    },
+    {
+        "id": "5",
+        "headline": "Australia's 'Big Wet' eases, but thousands still isolated",
+        "standfirst": "Rivers remain high in a suburb in the Australian city of Sydney as rain falls, pushing up floodwaters that have inundated homes and roads.",
+        "image": {
+            "alt": "Australia's 'Big Wet' eases, but thousands still isolated",
+            "src": "https://content.api.news/v3/images/bin/94bea2e40616393758052c40088ec039",
+            "height": "75",
+            "width": "100"
+        },
+        "date": "March 24, 2021",
+        "link": {
+            "href": "https://www.news.com.au/breaking-news/australias-big-wet-eases-but-thousands-still-isolated/news-story/cc9acf38459369a78b606b492f46dc1b",
+            "title": "australias-big-wet-eases-but-thousands-still-isolated"
+        },
+        "byline": "Andrew LEESON"
+    }
+]
